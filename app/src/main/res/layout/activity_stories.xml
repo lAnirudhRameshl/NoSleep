@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        xmlns:tools = "http://schemas.android.com/tools"
+        android:background="#3E606F"
+        android:padding="15dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="Go Back"
+            android:font="@font/segoeui"
+            android:textSize="26sp"
+            android:textStyle="bold"
+            android:textColor="#7C7C7C"
+            android:id="@+id/goback"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:text="TITLE OF THE STORY"
+                android:font="@font/segoeui"
+                android:textStyle="bold"
+                android:textColor="#FFFFFF"
+                android:textSize="50dp"
+                android:id="@+id/titleOfStory"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:text="By Author"
+                android:textColor="#FFFFFF"
+                android:textSize="25dp"
+                android:font="@font/segoeui"
+                android:id="@+id/autohorName"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse blandit urna eu dolor sollicitudin laoreet. Donec pretium dolor diam, sed faucibus turpis accumsan at. Curabitur accumsan ipsum eu risus tristique posuere. In at porttitor leo. Aliquam arcu eros, pellentesque sed blandit vel, cursus nec ante. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque tincidunt turpis vitae commodo mattis. Quisque mattis arcu augue. Donec bibendum maximus viverra. Cras enim arcu, facilisis ac augue ut, convallis condimentum metus. Sed lectus nunc, aliquet tristique lectus a, congue blandit ex. Cras felis est, pellentesque quis sapien id, dignissim ultrices leo. Curabitur felis libero, dapibus vitae dapibus quis, ornare sed ligula. Mauris feugiat tempus orci, at maximus eros rhoncus in. Etiam efficitur finibus commodo.
+
+    Phasellus ultricies magna in nibh venenatis maximus. Nulla facilisi. Aliquam ullamcorper risus arcu, eget consequat dui scelerisque id. Nunc mollis ultrices nibh, vel vehicula nunc placerat quis. Maecenas nec risus justo. Morbi gravida est neque, ac interdum diam suscipit quis. Vivamus et semper libero. Sed tortor enim, ultricies et pretium quis, fermentum viverra ligula. Suspendisse potenti. Ut ac turpis malesuada, laoreet odio et, convallis leo. Donec fermentum ligula nunc, nec mattis lacus aliquet in. Morbi semper suscipit tristique."
+                android:textColor="#FFFFFF"
+                android:font="@font/segoeui"
+                android:textSize="15sp"
+                android:layout_marginTop="43dp"
+                android:id="@+id/story"/>
+        </LinearLayout>
+
+    </LinearLayout>

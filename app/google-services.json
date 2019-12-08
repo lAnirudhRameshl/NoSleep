@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "139159244046",
+    "firebase_url": "https://no-sleep-75484.firebaseio.com",
+    "project_id": "no-sleep-75484",
+    "storage_bucket": "no-sleep-75484.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139159244046:android:d702a52e503fc1f5b15b5f",
+        "android_client_info": {
+          "package_name": "com.example.android.nosleep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139159244046-8tv44ul7fcoloo9u5i9jpmkln7bk014j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH1nuo7-Cf1rRHKmb4R4sIzrt35aqzjBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139159244046-8tv44ul7fcoloo9u5i9jpmkln7bk014j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
